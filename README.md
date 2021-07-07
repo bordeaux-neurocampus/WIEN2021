@@ -20,7 +20,6 @@ has *efficient high-level data structures and a simple but effective approach
 to object-oriented programming* (Python website). However, we'll only
 cover the strict minimum necessary for getting started with numerical computing.
 
-**Prerequisites**: [Installation](#installation)  
 **See also**: [Official Python tutorial](https://docs.python.org/tutorial), [Dive into Python](https://diveintopython3.problemsolving.io/),
 [Learn Python](https://www.learnpython.org/)
 <br/><br/>
