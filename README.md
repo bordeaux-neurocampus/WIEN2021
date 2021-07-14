@@ -13,6 +13,28 @@ The course will be in person. The location and [schedule](figures/Schedule.png) 
 <br/><br/>
 
 ## What to prepare in advance:
+
+### [Installation](lessons/programming/01-installation.md) (If you wish to have Python in your computer)
+
+This lesson aims at providing the student with a clean development environment,
+including Python installation and essential packages, a decent text editor, and
+a shell. We'll also introduce the Python & IPython shells, the **Jupyter notebook**
+and explains how to run a python script from the command line.
+In case you cannot install Python/Anaconda in your computer, you can use [Google Colab](https://colab.research.google.com/notebooks/basic_features_overview.ipynb). We've added a short tutorial on how to use Colab in [here](lessons/programming/colab_steps.md).
+
+**Prerequisites**: None  
+**See also**: [Anaconda installation](https://docs.anaconda.com/anaconda/install/), 
+[Datacamp tutorial for Windows](https://www.datacamp.com/community/tutorials/installing-anaconda-windows),
+[Datacamp tutorial for MacOS](https://www.datacamp.com/community/tutorials/installing-anaconda-mac-os-x),
+[Miniconda tutorial Windows](https://katiekodes.com/setup-python-windows-miniconda/)
+[Miniconda tutorial MacOS](https://docs.conda.io/projects/continuumio-conda/en/latest/user-guide/install/macos.html),
+[Tutorial on Jupyter Notebooks](https://www.dataquest.io/blog/jupyter-notebook-tutorial/),
+[A gallery of interesting Jupyter Notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks),
+[Ten simple rules for writing and sharing computational analyses in Jupyter Notebooks](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007007)
+
+<br/>
+
+
 ### [Introduction](lessons/programming/02-introduction.md)
 
 We introduce here Python, a powerful and easy to learn programming language. It
@@ -23,6 +45,34 @@ cover the strict minimum necessary for getting started with numerical computing.
 **See also**: [Official Python tutorial](https://docs.python.org/tutorial), [Dive into Python](https://diveintopython3.problemsolving.io/),
 [Learn Python](https://www.learnpython.org/)
 <br/><br/>
+
+### [Numerical computing](https://docs.scipy.org/doc/numpy/user/quickstart.html)
+
+This lesson gives an overview of NumPy, the core library for performant
+numerical computing, with support for large, multi-dimensional arrays and
+matrices, along with a large collection of high-level mathematical functions to
+operate on these arrays.
+
+**Prerequisites**: [Introduction](#introduction)  
+**See also**: [Numpy for Matlab users](https://docs.scipy.org/doc/numpy/user/numpy-for-matlab-users.html),
+[From Python to Numpy](https://www.labri.fr/perso/nrougier/from-python-to-numpy/),
+[Numpy Absolute Beginners](https://numpy.org/doc/stable/user/absolute_beginners.html)
+
+<br/>
+
+### [Data Visualization](https://matplotlib.org/3.1.0/tutorials/introductory/pyplot.html)
+
+We'll explore the matplotlib library which is a Python 2D plotting library
+which produces publication quality figures in a variety of hardcopy formats and
+interactive environments across platforms. Matplotlib can be used in Python
+scripts, the Python and IPython shells, the Jupyter notebook, web application
+servers, and four graphical user interface toolkits.
+
+**Prerequisites**: [Numerical computing](#numerical-computing)  
+**See also**: [Matplotlib tutorial](https://github.com/rougier/matplotlib-tutorial), 
+[Ten Simple Rules for Better Figures](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833)
+
+<br/>
 
 ## Resources
 1. Pehlevan, C., Ali, F. & Ölveczky, B.P. Flexibility in motor timing constrains the topology and dynamics of pattern generator circuits. Nat Commun 9, 977 (2018). https://doi.org/10.1038/s41467-018-03261-5
