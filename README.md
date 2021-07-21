@@ -9,7 +9,7 @@ This is a repository for the neurocomputation course in the Bordeaux Workshop "I
 
 ## Schedule
 
-The course will be in person. The location and [schedule](figures/Schedule.png) will be uploaded soon.
+The course will be in person. The location and [schedule](figs/Schedule.png) will be uploaded soon.
 <br/><br/>
 
 ## What to prepare in advance:
