@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Extra
+/lessons/slides/WIEN_Tuesday_video.pptx
