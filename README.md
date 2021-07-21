@@ -14,6 +14,13 @@ The course will be in person. The location and [schedule](figures/Schedule.png) 
 
 ## What to prepare in advance:
 
+1. Monday 26th: Installation (optional), Introduction, [Brian tutorial 1](https://brian2.readthedocs.io/en/stable/resources/tutorials/1-intro-to-brian-neurons.html), [Brian tutorial 2](https://brian2.readthedocs.io/en/stable/resources/tutorials/2-intro-to-brian-synapses.html)
+2. Tuesday 27th: Read [this](https://doi.org/10.1038/s41467-018-03261-5) paper.
+3. Wednesday 28th:
+4. Thursday 29th: Have a read on [synfire chains](http://www.scholarpedia.org/article/Synfire_chain)
+
+## Resources
+
 ### [Installation](lessons/programming/01-installation.md) (If you wish to have Python in your computer)
 
 This lesson aims at providing the student with a clean development environment,
@@ -31,7 +38,6 @@ In case you cannot install Python/Anaconda in your computer, you can use [Google
 [Tutorial on Jupyter Notebooks](https://www.dataquest.io/blog/jupyter-notebook-tutorial/),
 [A gallery of interesting Jupyter Notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks),
 [Ten simple rules for writing and sharing computational analyses in Jupyter Notebooks](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007007)
-
 <br/>
 
 
@@ -44,7 +50,8 @@ cover the strict minimum necessary for getting started with numerical computing.
 
 **See also**: [Official Python tutorial](https://docs.python.org/tutorial), [Dive into Python](https://diveintopython3.problemsolving.io/),
 [Learn Python](https://www.learnpython.org/)
-<br/><br/>
+<br/>
+
 
 ### [Numerical computing](https://docs.scipy.org/doc/numpy/user/quickstart.html)
 
@@ -57,8 +64,8 @@ operate on these arrays.
 **See also**: [Numpy for Matlab users](https://docs.scipy.org/doc/numpy/user/numpy-for-matlab-users.html),
 [From Python to Numpy](https://www.labri.fr/perso/nrougier/from-python-to-numpy/),
 [Numpy Absolute Beginners](https://numpy.org/doc/stable/user/absolute_beginners.html)
-
 <br/>
+
 
 ### [Data Visualization](https://matplotlib.org/3.1.0/tutorials/introductory/pyplot.html)
 
@@ -70,16 +77,26 @@ servers, and four graphical user interface toolkits.
 
 **Prerequisites**: [Numerical computing](#numerical-computing)  
 **See also**: [Matplotlib tutorial](https://github.com/rougier/matplotlib-tutorial), 
-[Ten Simple Rules for Better Figures](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833)
-
+[Ten Simple Rules for Better Figures](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833), [Tutorial on ipywidgets](https://ipython-books.github.io/33-mastering-widgets-in-the-jupyter-notebook/)
 <br/>
 
-## Resources
-1. Pehlevan, C., Ali, F. & Ölveczky, B.P. Flexibility in motor timing constrains the topology and dynamics of pattern generator circuits. Nat Commun 9, 977 (2018). https://doi.org/10.1038/s41467-018-03261-5
-2. https://ocw.mit.edu/courses/mathematics/18-03-differential-equations-spring-2010/video-lectures/lecture-2-eulers-numerical-method-for-y-f-x-y/ (up to 35')
-3. http://www.scholarpedia.org/article/Synfire_chain
-4. https://neuronaldynamics.epfl.ch/online/Ch1.S3.html
-5. https://brian2.readthedocs.io/en/stable/resources/tutorials/1-intro-to-brian-neurons.html
+
+### [The Open Science movement](https://en.wikipedia.org/wiki/Open_science) 
+
+Open Science is the movement to make scientific research and data accessible to all. It includes practices such as publishing open scientific research, campaigning for open access and generally making it easier to publish and communicate scientific knowledge. Additionally, it includes other ways to make science more transparent and accessible during the research process. This includes open notebook science, citizen science, and aspects of open source software and crowdfunded research projects. (UNESCO)
+
+**See also**: [FOSTER](https://www.fosteropenscience.eu/resources), 
+[Ouvrir la Science](https://www.ouvrirlascience.fr/open-science/),
+[UNESCO & Open science](https://en.unesco.org/science-sustainable-future/open-science),
+<br/><br/>
+
+
+## Additional Info
+1. [Pehlevan, C., Ali, F. & Ölveczky, B.P. Flexibility in motor timing constrains the topology and dynamics of pattern generator circuits. Nat Commun 9, 977 (2018).](https://doi.org/10.1038/s41467-018-03261-5)
+2. [Euler's method](https://ocw.mit.edu/courses/mathematics/18-03-differential-equations-spring-2010/video-lectures/lecture-2-eulers-numerical-method-for-y-f-x-y/) (up to 35')
+3. [Integrate and Fire](https://neuronaldynamics.epfl.ch/online/Ch1.S3.html)
+4. [Synfire Chain](http://www.scholarpedia.org/article/Synfire_chain)
+5. [Brian Tutorials](https://brian2.readthedocs.io/en/stable/resources/tutorials/)
 
 
 ## 
