@@ -1,5 +1,5 @@
 # Workshop - Introduction to Experimental Neuroscience: Neurocomputation
-This is a repository for the neurocomputation course in the Bordeaux Workshop "Introduction to Experimental Neuroscience"
+This is a repository for the neurocomputation course in the [Bordeaux Workshop "Introduction to Experimental Neuroscience"](https://www.bordeaux-neurocampus.fr/en/workshop-introduction-to-experimental-neuroscience-2/)
 
 **Contact**
 - Arthur Leblois:  arthur.leblois@u-bordeaux.fr
