@@ -16,7 +16,7 @@ The course will be in person. You can find the location and schedule [here](figs
 
 1. Monday 26th: Installation (optional), Introduction, [Brian tutorial 1](https://brian2.readthedocs.io/en/stable/resources/tutorials/1-intro-to-brian-neurons.html), [Brian tutorial 2](https://brian2.readthedocs.io/en/stable/resources/tutorials/2-intro-to-brian-synapses.html)
 2. Tuesday 27th: Read [this](https://doi.org/10.1038/s41467-018-03261-5) paper.
-3. Wednesday 28th:
+3. Wednesday 28th: Recap.
 4. Thursday 29th: Have a read on [synfire chains](http://www.scholarpedia.org/article/Synfire_chain)
 
 ## Resources
@@ -87,7 +87,7 @@ Open Science is the movement to make scientific research and data accessible to 
 
 **See also**: [FOSTER](https://www.fosteropenscience.eu/resources), 
 [Ouvrir la Science](https://www.ouvrirlascience.fr/open-science/),
-[UNESCO & Open science](https://en.unesco.org/science-sustainable-future/open-science),
+[UNESCO & Open science](https://en.unesco.org/science-sustainable-future/open-science)
 <br/><br/>
 
 
